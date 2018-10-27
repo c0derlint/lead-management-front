@@ -1,5 +1,7 @@
 # LeadManagementFront
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/17d1fd1aa27e4b839266be10ea0b392a)](https://www.codacy.com/app/c0derlint/lead-management-front?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JBossOutreach/lead-management-front&amp;utm_campaign=Badge_Grade)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
 ## Development server
